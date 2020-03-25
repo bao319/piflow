@@ -52,5 +52,5 @@ clean package -Dmaven.test.skip=true -U
 
 7.socket text stream
 
-    nc -lk 9999
+    nc -lk 9999 
 
